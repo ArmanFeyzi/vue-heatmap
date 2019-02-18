@@ -14,7 +14,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری صنایع پتروشیمی‌",
     "shortname" : "وپترو",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -32,7 +32,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌ گذاری‌ البرز(هلدینگ‌",
     "shortname" : "والبر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -86,7 +86,7 @@
     "ex" : "bourse",
     "name" : "فولاد خراسان",
     "shortname" : "فخاس",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -104,7 +104,7 @@
     "ex" : "bourse",
     "name" : "ماشین‌ سازی‌ اراک‌",
     "shortname" : "فاراک",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -122,7 +122,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی شازند",
     "shortname" : "شاراک",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -140,7 +140,7 @@
     "ex" : "bourse",
     "name" : "سیمان فارس و خوزستان",
     "shortname" : "سفارس",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -158,7 +158,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌غرب‌",
     "shortname" : "سغرب",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -176,7 +176,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌اصفهان‌",
     "shortname" : "سصفها",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -212,7 +212,7 @@
     "ex" : "bourse",
     "name" : "پرداخت الکترونیک سامان کیش",
     "shortname" : "سپ",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -230,7 +230,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌ کوثر",
     "shortname" : "دکوثر",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -248,7 +248,7 @@
     "ex" : "bourse",
     "name" : "پارس‌ خودرو",
     "shortname" : "خپارس",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -266,7 +266,7 @@
     "ex" : "bourse",
     "name" : "صنایع‌کاغذسازی‌کاوه‌",
     "shortname" : "چکاوه",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -284,7 +284,7 @@
     "ex" : "bourse",
     "name" : "فیبر ایران‌",
     "shortname" : "چفیبر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -302,7 +302,7 @@
     "ex" : "bourse",
     "name" : "س. نفت و گاز و پتروشیمی تأمین",
     "shortname" : "تاپیکو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -338,7 +338,7 @@
     "ex" : "farabourse",
     "name" : "هتل پارسیان کوثر اصفهان",
     "shortname" : "گکوثر",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -356,7 +356,7 @@
     "ex" : "farabourse",
     "name" : "شیشه‌ قزوین‌",
     "shortname" : "کقزوی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -374,7 +374,7 @@
     "ex" : "bourse",
     "name" : "بیمه البرز",
     "shortname" : "البرز",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -392,7 +392,7 @@
     "ex" : "farabourse",
     "name" : "صندوق س.اعتماد آفرین پارسیان-د",
     "shortname" : "اعتماد",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -410,7 +410,7 @@
     "ex" : "farabourse",
     "name" : "بیمه  تعاون",
     "shortname" : "وتعاون",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -428,7 +428,7 @@
     "ex" : "farabourse",
     "name" : "کارخانجات تولیدی پلاستیران",
     "shortname" : "پلاست",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -446,7 +446,7 @@
     "ex" : "farabourse",
     "name" : "لوله‌وتجهیزات‌ سدید - ورشکسته",
     "shortname" : "فسدید",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -464,7 +464,7 @@
     "ex" : "farabourse",
     "name" : "پرمیت‌",
     "shortname" : "سپرمی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -482,7 +482,7 @@
     "ex" : "farabourse",
     "name" : "بیمه آرمان",
     "shortname" : "آرمان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -500,7 +500,7 @@
     "ex" : "farabourse",
     "name" : "بازرگانی آینده سازان بهشت پارس",
     "shortname" : "آینده",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -518,7 +518,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی گلستان",
     "shortname" : "شستان",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -536,7 +536,7 @@
     "ex" : "farabourse",
     "name" : "ح.آلومتک‌",
     "shortname" : "فالومح",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -554,7 +554,7 @@
     "ex" : "farabourse",
     "name" : "گسترش صنایع پیام",
     "shortname" : "لپیام",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -572,7 +572,7 @@
     "ex" : "farabourse",
     "name" : "دریایی و کشتیرانی خط دریابندر",
     "shortname" : "حبندر",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -590,7 +590,7 @@
     "ex" : "farabourse",
     "name" : "کارخانجات کابلسازی ‌ایران‌",
     "shortname" : "بایکا",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -608,7 +608,7 @@
     "ex" : "farabourse",
     "name" : "تولی‌پرس‌",
     "shortname" : "شتولی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -626,7 +626,7 @@
     "ex" : "farabourse",
     "name" : "گسترش صنایع انرژی آذرآب",
     "shortname" : "فنرژی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -644,7 +644,7 @@
     "ex" : "farabourse",
     "name" : "الحاوی",
     "shortname" : "دحاوی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -662,7 +662,7 @@
     "ex" : "farabourse",
     "name" : "کف",
     "shortname" : "شکف",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -680,7 +680,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی‌ اصفهان‌",
     "shortname" : "شصفها",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -698,7 +698,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری ملت",
     "shortname" : "وملت",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -716,7 +716,7 @@
     "ex" : "farabourse",
     "name" : "مجتمع معادن مس تکنار",
     "shortname" : "تکنار",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -734,7 +734,7 @@
     "ex" : "farabourse",
     "name" : "قند نقش جهان",
     "shortname" : "قنقش",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -752,7 +752,7 @@
     "ex" : "farabourse",
     "name" : "شرکت عمران و سازندگی قزوین",
     "shortname" : "ثقزوی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -770,7 +770,7 @@
     "ex" : "farabourse",
     "name" : "گروه اقتصادی کرمان خودرو",
     "shortname" : "خکرمان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -788,7 +788,7 @@
     "ex" : "farabourse",
     "name" : "آلومتک‌",
     "shortname" : "فالوم",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -806,7 +806,7 @@
     "ex" : "farabourse",
     "name" : "ح . بیمه  تعاون",
     "shortname" : "وتعاونح",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -824,7 +824,7 @@
     "ex" : "farabourse",
     "name" : "مهندسی مرآت پولاد",
     "shortname" : "تپولا",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -842,7 +842,7 @@
     "ex" : "farabourse",
     "name" : "نورد و لوله اهواز",
     "shortname" : "فاهواز",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -860,7 +860,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی فارابی",
     "shortname" : "شفارا",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -878,7 +878,7 @@
     "ex" : "farabourse",
     "name" : "اعتباری توسعه",
     "shortname" : "توسعه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -896,7 +896,7 @@
     "ex" : "farabourse",
     "name" : "س. چشم انداز توسعه شمال",
     "shortname" : "وشمال",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -914,7 +914,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری پارس آریان",
     "shortname" : "آریان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -932,7 +932,7 @@
     "ex" : "farabourse",
     "name" : "بانک شهر",
     "shortname" : "وشهر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -950,7 +950,7 @@
     "ex" : "farabourse",
     "name" : "تولیدی پلاستیک‌ شاهین",
     "shortname" : "پشاهن",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -968,7 +968,7 @@
     "ex" : "farabourse",
     "name" : "مهندسی صنعتی روان فن آور",
     "shortname" : "خفناور",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -986,7 +986,7 @@
     "ex" : "farabourse",
     "name" : "تابان نیرو سپاهان",
     "shortname" : "تابا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1004,7 +1004,7 @@
     "ex" : "farabourse",
     "name" : "نوش پونه مشهد",
     "shortname" : "غپونه",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1022,7 +1022,7 @@
     "ex" : "farabourse",
     "name" : "شرکت کیسون",
     "shortname" : "کیسون",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -1058,7 +1058,7 @@
     "ex" : "farabourse",
     "name" : "فرآوردههای غذایی وقندتربت‌جام‌",
     "shortname" : "قجام",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1076,7 +1076,7 @@
     "ex" : "farabourse",
     "name" : "سیمان مجد خواف",
     "shortname" : "سخواف",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1094,7 +1094,7 @@
     "ex" : "farabourse",
     "name" : "کارخانجات‌مخابراتی‌ایران‌",
     "shortname" : "لکما",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -1130,7 +1130,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری توسعه عمران زاگرس",
     "shortname" : "ثزاگرس",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1148,7 +1148,7 @@
     "ex" : "farabourse",
     "name" : "کشتیرانی آریا",
     "shortname" : "حاریا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1166,7 +1166,7 @@
     "ex" : "farabourse",
     "name" : "صنعتی‌ دریایی‌ ایران‌",
     "shortname" : "خصدرا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1184,7 +1184,7 @@
     "ex" : "farabourse",
     "name" : "بانک سرمایه",
     "shortname" : "سمایه",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1202,7 +1202,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی داراب",
     "shortname" : "داراب",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -1238,7 +1238,7 @@
     "ex" : "farabourse",
     "name" : "بیمه کارآفرین",
     "shortname" : "وآفری",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -1274,7 +1274,7 @@
     "ex" : "farabourse",
     "name" : "تجهیزنیروی‌زنگان‌",
     "shortname" : "شزنگ",
-    "color" : "#eee"
+    "color" : "#aa2121"
 },
 {
     "instrument" : {
@@ -1292,7 +1292,7 @@
     "ex" : "farabourse",
     "name" : "توسعه بازرگانی آهن وفولادمیلاد",
     "shortname" : "بمیلا",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1310,7 +1310,7 @@
     "ex" : "farabourse",
     "name" : "کود شیمیایی اوره لردگان",
     "shortname" : "شلرد",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1328,7 +1328,7 @@
     "ex" : "farabourse",
     "name" : "تولیدتجهیزات‌سنگین‌هپکو",
     "shortname" : "تپکو",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -1346,7 +1346,7 @@
     "ex" : "farabourse",
     "name" : "س. ساختمانی نظام مهندسی ایران",
     "shortname" : "ثنظام",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1364,7 +1364,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری وثوق امین",
     "shortname" : "وثوق",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1382,7 +1382,7 @@
     "ex" : "farabourse",
     "name" : "بیمه رازی",
     "shortname" : "ورازی",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -1400,7 +1400,7 @@
     "ex" : "farabourse",
     "name" : "نیرو سرمایه",
     "shortname" : "نیرو",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -1436,7 +1436,7 @@
     "ex" : "farabourse",
     "name" : "امور رفاهی کارگزاران پارس",
     "shortname" : "گپارس",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1472,7 +1472,7 @@
     "ex" : "farabourse",
     "name" : "س ساختمانی ب نام آوران مهندسی",
     "shortname" : "ثنام",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1490,7 +1490,7 @@
     "ex" : "farabourse",
     "name" : "خدمات فنی فولاد یزد",
     "shortname" : "خفولا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1508,7 +1508,7 @@
     "ex" : "farabourse",
     "name" : "شرکت لیزینگ آریا دانا",
     "shortname" : "ولانا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1526,7 +1526,7 @@
     "ex" : "farabourse",
     "name" : "بانک سامان",
     "shortname" : "سامان",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1562,7 +1562,7 @@
     "ex" : "farabourse",
     "name" : "شرکت‌ ساختمان‌ اصفهان‌",
     "shortname" : "ثاصفا",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1598,7 +1598,7 @@
     "ex" : "farabourse",
     "name" : "شوکو پارس",
     "shortname" : "غشوکو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1616,7 +1616,7 @@
     "ex" : "farabourse",
     "name" : "بیمه  سرمد",
     "shortname" : "وسرمد",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1634,7 +1634,7 @@
     "ex" : "farabourse",
     "name" : "تکادو",
     "shortname" : "وکادو",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1652,7 +1652,7 @@
     "ex" : "farabourse",
     "name" : "شرکت سیمان لارستان",
     "shortname" : "سلار",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -1670,7 +1670,7 @@
     "ex" : "farabourse",
     "name" : "بانک  آینده",
     "shortname" : "وآیند",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1688,7 +1688,7 @@
     "ex" : "farabourse",
     "name" : "سیمان باقران",
     "shortname" : "سباقر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1706,7 +1706,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری کوه نور",
     "shortname" : "ثنور",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1724,7 +1724,7 @@
     "ex" : "farabourse",
     "name" : "لیزینگ رازی",
     "shortname" : "ولراز",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1760,7 +1760,7 @@
     "ex" : "farabourse",
     "name" : "مجتمع سیمان غرب آسیا",
     "shortname" : "سجام",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1778,7 +1778,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی جهرم",
     "shortname" : "جهرم",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1832,7 +1832,7 @@
     "ex" : "farabourse",
     "name" : "تولید مواداولیه الیاف مصنوعی",
     "shortname" : "شمواد",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -1850,7 +1850,7 @@
     "ex" : "farabourse",
     "name" : "صنایع پتروشیمی تخت جمشید",
     "shortname" : "شجم",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1868,7 +1868,7 @@
     "ex" : "farabourse",
     "name" : "صنایع تولیدی اشتاد ایران‌",
     "shortname" : "تشتاد",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -1886,7 +1886,7 @@
     "ex" : "farabourse",
     "name" : "ویتانا",
     "shortname" : "غویتا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1904,7 +1904,7 @@
     "ex" : "farabourse",
     "name" : "گروه صنایع معادن فلات ایرانیان",
     "shortname" : "فلات",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1922,7 +1922,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری ساختمانی نوین",
     "shortname" : "وثنو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -1958,7 +1958,7 @@
     "ex" : "farabourse",
     "name" : "گروه فن آوا",
     "shortname" : "فن آوا",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -1994,7 +1994,7 @@
     "ex" : "farabourse",
     "name" : "پلی اکریل ایران",
     "shortname" : "شپلی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2048,7 +2048,7 @@
     "ex" : "farabourse",
     "name" : "شیمیایی رنگین",
     "shortname" : "شرنگی",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -2066,7 +2066,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی فسا",
     "shortname" : "فسا",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -2102,7 +2102,7 @@
     "ex" : "farabourse",
     "name" : "گازلوله‌",
     "shortname" : "پلوله",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -2120,7 +2120,7 @@
     "ex" : "farabourse",
     "name" : "داروسازی شهید قاضی",
     "shortname" : "دقاضی",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -2138,7 +2138,7 @@
     "ex" : "farabourse",
     "name" : "سایر اشخاص بورس انرژی",
     "shortname" : "انرژی3",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2156,7 +2156,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی کازرون",
     "shortname" : "کازرو",
-    "color" : "#eee"
+    "color" : "#aa2121"
 },
 {
     "instrument" : {
@@ -2192,7 +2192,7 @@
     "ex" : "farabourse",
     "name" : "س.توسعه و عمران استان اردبیل",
     "shortname" : "ثتوسا",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -2210,7 +2210,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری نیروگاهی ایران",
     "shortname" : "وسنا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2228,7 +2228,7 @@
     "ex" : "farabourse",
     "name" : "کارخانه های صنعتی آزمایش",
     "shortname" : "لازما",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -2264,7 +2264,7 @@
     "ex" : "farabourse",
     "name" : "ایران خودرو دیزل",
     "shortname" : "خاور",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -2336,7 +2336,7 @@
     "ex" : "farabourse",
     "name" : "سولیران‌",
     "shortname" : "فسلیر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2354,7 +2354,7 @@
     "ex" : "bourse",
     "name" : "شرکت ارتباطات سیار ایران",
     "shortname" : "همراه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2390,7 +2390,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌ گذاری‌ صنعت‌ بیمه‌",
     "shortname" : "وبیمه",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -2408,7 +2408,7 @@
     "ex" : "farabourse",
     "name" : "کشت و دامداری فکا",
     "shortname" : "زفکا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2426,7 +2426,7 @@
     "ex" : "farabourse",
     "name" : "آ.س.پ",
     "shortname" : "آ س پ",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -2462,7 +2462,7 @@
     "ex" : "bourse",
     "name" : "مهرکام‌پارس‌",
     "shortname" : "خمهر",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -2480,7 +2480,7 @@
     "ex" : "farabourse",
     "name" : "مهندسی ساختمان تاسیسات راه آهن",
     "shortname" : "بالاس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2498,7 +2498,7 @@
     "ex" : "farabourse",
     "name" : "کشت و دام گلدشت نمونه اصفهان",
     "shortname" : "زگلدشت",
-    "color" : "#eee"
+    "color" : "#aa2121"
 },
 {
     "instrument" : {
@@ -2516,7 +2516,7 @@
     "ex" : "farabourse",
     "name" : "گروه سرمایه گذاری میراث فرهنگی",
     "shortname" : "سمگا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2534,7 +2534,7 @@
     "ex" : "farabourse",
     "name" : "سایپا دیزل",
     "shortname" : "خکاوه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2552,7 +2552,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری و توسعه خوزستان",
     "shortname" : "وثخوز",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -2570,7 +2570,7 @@
     "ex" : "farabourse",
     "name" : "سهامی ذوب آهن  اصفهان",
     "shortname" : "ذوب",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -2588,7 +2588,7 @@
     "ex" : "farabourse",
     "name" : "ح. شرکت بیمه اتکایی امین",
     "shortname" : "اتکامح",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2606,7 +2606,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌ اسوه‌",
     "shortname" : "داسوه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2624,7 +2624,7 @@
     "ex" : "farabourse",
     "name" : "شیر پاستوریزه پگاه گلستان",
     "shortname" : "غگلستا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2660,7 +2660,7 @@
     "ex" : "farabourse",
     "name" : "توسعه فناوری اطلاعات خوارزمی",
     "shortname" : "مفاخر",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -2678,7 +2678,7 @@
     "ex" : "bourse",
     "name" : "صنعتی‌ بهشهر",
     "shortname" : "غبشهر",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -2696,7 +2696,7 @@
     "ex" : "bourse",
     "name" : "معادن‌منگنزایران‌",
     "shortname" : "کمنگنز",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -2732,7 +2732,7 @@
     "ex" : "bourse",
     "name" : "کاشی‌ سعدی‌",
     "shortname" : "کسعدی",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -2750,7 +2750,7 @@
     "ex" : "farabourse",
     "name" : "توسعه خدمات دریایی وبندری سینا",
     "shortname" : "حسینا",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -2768,7 +2768,7 @@
     "ex" : "bourse",
     "name" : "شیرپاستوریزه‌پگاه‌خراسان‌",
     "shortname" : "غشان",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -2786,7 +2786,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی مبین",
     "shortname" : "مبین",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -2804,7 +2804,7 @@
     "ex" : "bourse",
     "name" : "ذغال‌سنگ‌ نگین‌ ط‌بس‌",
     "shortname" : "کطبس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2822,7 +2822,7 @@
     "ex" : "bourse",
     "name" : "تامین‌ ماسه‌ ریخته‌گری‌",
     "shortname" : "کماسه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2858,7 +2858,7 @@
     "ex" : "bourse",
     "name" : "لیزینگ رایان‌ سایپا",
     "shortname" : "ولساپا",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -2894,7 +2894,7 @@
     "ex" : "bourse",
     "name" : "بانک  پاسارگاد",
     "shortname" : "وپاسار",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -2912,7 +2912,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌صندوق‌بازنشستگی‌",
     "shortname" : "وصندوق",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2930,7 +2930,7 @@
     "ex" : "farabourse",
     "name" : "هلدینگ صنایع  معدنی خاورمیانه",
     "shortname" : "میدکو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2948,7 +2948,7 @@
     "ex" : "farabourse",
     "name" : "عطرین نخ قم",
     "shortname" : "نطرین",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -2984,7 +2984,7 @@
     "ex" : "farabourse",
     "name" : "بانک دی",
     "shortname" : "دی",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -3002,7 +3002,7 @@
     "ex" : "bourse",
     "name" : "آهنگری‌ تراکتورسازی‌ ایران‌",
     "shortname" : "خاهن",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3020,7 +3020,7 @@
     "ex" : "farabourse",
     "name" : "آتیه داده پرداز",
     "shortname" : "اپرداز",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -3056,7 +3056,7 @@
     "ex" : "bourse",
     "name" : "ایران‌دارو",
     "shortname" : "دیران",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -3074,7 +3074,7 @@
     "ex" : "bourse",
     "name" : "صنایع‌خاک‌چینی‌ایران‌",
     "shortname" : "کخاک",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -3092,7 +3092,7 @@
     "ex" : "bourse",
     "name" : "معدنی و صنعتی گل گهر",
     "shortname" : "کگل",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3110,7 +3110,7 @@
     "ex" : "bourse",
     "name" : "درخشان‌ تهران‌",
     "shortname" : "پدرخش",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -3128,7 +3128,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌ شرق‌",
     "shortname" : "سشرق",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -3146,7 +3146,7 @@
     "ex" : "bourse",
     "name" : "لعابیران‌",
     "shortname" : "شلعاب",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -3164,7 +3164,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌ سایپا",
     "shortname" : "وساپا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3182,7 +3182,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی پارس",
     "shortname" : "پارس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3200,7 +3200,7 @@
     "ex" : "bourse",
     "name" : "داده گسترعصرنوین-های وب",
     "shortname" : "های وب",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3236,7 +3236,7 @@
     "ex" : "bourse",
     "name" : "بیمه دانا",
     "shortname" : "دانا",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -3254,7 +3254,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌ مسکن‌",
     "shortname" : "ثمسکن",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3272,7 +3272,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌غدیر(هلدینگ‌",
     "shortname" : "وغدیر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3290,7 +3290,7 @@
     "ex" : "farabourse",
     "name" : "بیمه سامان",
     "shortname" : "بساما",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -3308,7 +3308,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌نیرو",
     "shortname" : "ونیرو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3326,7 +3326,7 @@
     "ex" : "bourse",
     "name" : "پالایش نفت اصفهان",
     "shortname" : "شپنا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3344,7 +3344,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی‌ آبادان‌",
     "shortname" : "شپترو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3362,7 +3362,7 @@
     "ex" : "bourse",
     "name" : "توسعه‌معادن‌وفلزات‌",
     "shortname" : "ومعادن",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -3398,7 +3398,7 @@
     "ex" : "farabourse",
     "name" : "تجارت الکترونیک پارسیان کیش",
     "shortname" : "تاپکیش",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -3416,7 +3416,7 @@
     "ex" : "farabourse",
     "name" : "س. توسعه و عمران استان کرمان",
     "shortname" : "کرمان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3434,7 +3434,7 @@
     "ex" : "bourse",
     "name" : "نیروکلر",
     "shortname" : "شکلر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3452,7 +3452,7 @@
     "ex" : "bourse",
     "name" : "ایران‌یاساتایرورابر",
     "shortname" : "پاسا",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -3470,7 +3470,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی خراسان",
     "shortname" : "خراسان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3488,7 +3488,7 @@
     "ex" : "bourse",
     "name" : "تولیدمحورخودرو",
     "shortname" : "خمحور",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -3506,7 +3506,7 @@
     "ex" : "bourse",
     "name" : "صندوق س. پارند پایدار سپهر",
     "shortname" : "پارند",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3524,7 +3524,7 @@
     "ex" : "bourse",
     "name" : "سرمایه گذاری مسکن شمال شرق",
     "shortname" : "ثشرق",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3542,7 +3542,7 @@
     "ex" : "bourse",
     "name" : "کارتن‌ ایران‌",
     "shortname" : "چکارن",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3560,7 +3560,7 @@
     "ex" : "bourse",
     "name" : "س. صنایع‌شیمیایی‌ایران",
     "shortname" : "شیران",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -3596,7 +3596,7 @@
     "ex" : "bourse",
     "name" : "بیمه پارسیان",
     "shortname" : "پارسیان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3632,7 +3632,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی‌شیراز",
     "shortname" : "شیراز",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -3650,7 +3650,7 @@
     "ex" : "farabourse",
     "name" : "داروسازی آوه سینا",
     "shortname" : "داوه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3668,7 +3668,7 @@
     "ex" : "farabourse",
     "name" : "پاکدیس",
     "shortname" : "غدیس",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -3686,7 +3686,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م23بودجه96-990528",
     "shortname" : "اخزا623",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3704,7 +3704,7 @@
     "ex" : "bourse",
     "name" : "بانک خاورمیانه",
     "shortname" : "وخاور",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -3740,7 +3740,7 @@
     "ex" : "bourse",
     "name" : "فولاد  خوزستان",
     "shortname" : "فخوز",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3758,7 +3758,7 @@
     "ex" : "bourse",
     "name" : "نفت سپاهان",
     "shortname" : "شسپا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3776,7 +3776,7 @@
     "ex" : "bourse",
     "name" : "صندوق درآمد ثابت امین یکم فردا",
     "shortname" : "امین یکم",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3794,7 +3794,7 @@
     "ex" : "bourse",
     "name" : "فروشگاههای زنجیره ای افق کوروش",
     "shortname" : "افق",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3830,7 +3830,7 @@
     "ex" : "bourse",
     "name" : "فرآورده‌های‌نسوزآذر",
     "shortname" : "کاذر",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -3866,7 +3866,7 @@
     "ex" : "bourse",
     "name" : "داده‌پردازی‌ایران‌",
     "shortname" : "مداران",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -3884,7 +3884,7 @@
     "ex" : "bourse",
     "name" : "بیمه آسیا",
     "shortname" : "آسیا",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -3920,7 +3920,7 @@
     "ex" : "bourse",
     "name" : "زامیاد",
     "shortname" : "خزامیا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3938,7 +3938,7 @@
     "ex" : "farabourse",
     "name" : "سنگ آهن گهرزمین",
     "shortname" : "کگهر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3956,7 +3956,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی جم",
     "shortname" : "جم",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -3974,7 +3974,7 @@
     "ex" : "bourse",
     "name" : "باما",
     "shortname" : "کاما",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -3992,7 +3992,7 @@
     "ex" : "bourse",
     "name" : "پالایش نفت تهران",
     "shortname" : "شتران",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4010,7 +4010,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌ گذاری‌ آتیه‌ دماوند",
     "shortname" : "واتی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4028,7 +4028,7 @@
     "ex" : "bourse",
     "name" : "نورد آلومینیوم‌",
     "shortname" : "فنوال",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4118,7 +4118,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن آذر97",
     "shortname" : "تسه9709",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4136,7 +4136,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی غدیر",
     "shortname" : "شغدیر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4172,7 +4172,7 @@
     "ex" : "bourse",
     "name" : "بیسکویت‌  گرجی‌",
     "shortname" : "غگرجی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4190,7 +4190,7 @@
     "ex" : "bourse",
     "name" : "سایپاآذین‌",
     "shortname" : "خاذین",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4208,7 +4208,7 @@
     "ex" : "bourse",
     "name" : "بین‌ المللی‌ محصولات‌  پارس‌",
     "shortname" : "شپارس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4226,7 +4226,7 @@
     "ex" : "bourse",
     "name" : "بانک سینا",
     "shortname" : "وسینا",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -4262,7 +4262,7 @@
     "ex" : "farabourse",
     "name" : "شیر پگاه آذربایجان شرقی",
     "shortname" : "غپآذر",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -4280,7 +4280,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م3بودجه97-990721",
     "shortname" : "اخزا703",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4298,7 +4298,7 @@
     "ex" : "bourse",
     "name" : "کشتیرانی جمهوری اسلامی ایران",
     "shortname" : "حکشتی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4316,7 +4316,7 @@
     "ex" : "farabourse",
     "name" : "پالایش نفت شیراز",
     "shortname" : "شراز",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4334,7 +4334,7 @@
     "ex" : "bourse",
     "name" : "افست‌",
     "shortname" : "چافست",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -4352,7 +4352,7 @@
     "ex" : "farabourse",
     "name" : "تولید برق ماهتاب کهنوج",
     "shortname" : "بکهنوج",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4370,7 +4370,7 @@
     "ex" : "bourse",
     "name" : "آسان پرداخت پرشین",
     "shortname" : "آپ",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4388,7 +4388,7 @@
     "ex" : "bourse",
     "name" : "الکتریک‌ خودرو شرق‌",
     "shortname" : "خشرق",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4442,7 +4442,7 @@
     "ex" : "farabourse",
     "name" : "پتروشیمی زاگرس",
     "shortname" : "زاگرس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4478,7 +4478,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری مس سرچشمه",
     "shortname" : "سرچشمه",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -4496,7 +4496,7 @@
     "ex" : "bourse",
     "name" : "واسپاری ملت",
     "shortname" : "ولملت",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4532,7 +4532,7 @@
     "ex" : "bourse",
     "name" : "بین‌المللی‌توسعه‌ساختمان",
     "shortname" : "ثاخت",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4550,7 +4550,7 @@
     "ex" : "bourse",
     "name" : "گلتاش‌",
     "shortname" : "شگل",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4568,7 +4568,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌ بجنورد",
     "shortname" : "سبجنو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4586,7 +4586,7 @@
     "ex" : "bourse",
     "name" : "تولیدی چدن سازان",
     "shortname" : "چدن",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -4604,7 +4604,7 @@
     "ex" : "bourse",
     "name" : "بانک‌پارسیان‌",
     "shortname" : "وپارس",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -4622,7 +4622,7 @@
     "ex" : "bourse",
     "name" : "سایپا",
     "shortname" : "خساپا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4640,7 +4640,7 @@
     "ex" : "farabourse",
     "name" : "تولید نیروی برق دماوند",
     "shortname" : "دماوند",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4658,7 +4658,7 @@
     "ex" : "bourse",
     "name" : "سامان‌ گستراصفهان‌",
     "shortname" : "ثامان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4676,7 +4676,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌ سپه‌",
     "shortname" : "وسپه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4694,7 +4694,7 @@
     "ex" : "bourse",
     "name" : "رینگ‌سازی‌مشهد",
     "shortname" : "خرینگ",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -4712,7 +4712,7 @@
     "ex" : "bourse",
     "name" : "گروه‌بهمن‌",
     "shortname" : "خبهمن",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4730,7 +4730,7 @@
     "ex" : "bourse",
     "name" : "سایپاشیشه‌",
     "shortname" : "کساپا",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -4748,7 +4748,7 @@
     "ex" : "bourse",
     "name" : "ح . قطعات‌ اتومبیل‌ ایران‌",
     "shortname" : "ختوقاح",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4766,7 +4766,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌ارومیه‌",
     "shortname" : "ساروم",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -4784,7 +4784,7 @@
     "ex" : "bourse",
     "name" : "فولاد آلیاژی ایران",
     "shortname" : "فولاژ",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -4802,7 +4802,7 @@
     "ex" : "farabourse",
     "name" : "معدنی کیمیای زنجان گستران",
     "shortname" : "کیمیا",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -4820,7 +4820,7 @@
     "ex" : "farabourse",
     "name" : "فولاد هرمزگان جنوب",
     "shortname" : "هرمز",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4838,7 +4838,7 @@
     "ex" : "farabourse",
     "name" : "گروه کارخانجات صنعتی تبرک",
     "shortname" : "تبرک",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4856,7 +4856,7 @@
     "ex" : "bourse",
     "name" : "صندوق س. با درآمد ثابت کیان",
     "shortname" : "کیان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4874,7 +4874,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌ ملی‌ایران‌",
     "shortname" : "ونیکی",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -4892,7 +4892,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن شهریور97",
     "shortname" : "تسه9706",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4910,7 +4910,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی‌ خارک‌",
     "shortname" : "شخارک",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4946,7 +4946,7 @@
     "ex" : "bourse",
     "name" : "نفت‌ بهران‌",
     "shortname" : "شبهرن",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -4964,7 +4964,7 @@
     "ex" : "bourse",
     "name" : "کالسیمین‌",
     "shortname" : "فاسمین",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -4982,7 +4982,7 @@
     "ex" : "bourse",
     "name" : "ح . نفت‌ پارس‌",
     "shortname" : "شنفتح",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5000,7 +5000,7 @@
     "ex" : "farabourse",
     "name" : "مدیریت انرژی امید  تابان هور",
     "shortname" : "وهور",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5018,7 +5018,7 @@
     "ex" : "bourse",
     "name" : "پلاسکوکار",
     "shortname" : "پلاسک",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5036,7 +5036,7 @@
     "ex" : "bourse",
     "name" : "سرمایه گذاری نور کوثر ایرانیان",
     "shortname" : "وسکاب",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5054,7 +5054,7 @@
     "ex" : "bourse",
     "name" : "کارخانجات‌تولیدی‌شیشه‌رازی‌",
     "shortname" : "کرازی",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -5090,7 +5090,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌ گذاری‌ شاهد",
     "shortname" : "ثشاهد",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5108,7 +5108,7 @@
     "ex" : "bourse",
     "name" : "تجارت الکترونیک  پارسیان",
     "shortname" : "رتاپ",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5126,7 +5126,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری مسکن الوند",
     "shortname" : "ثالوند",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5162,7 +5162,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌هگمتان‌",
     "shortname" : "سهگمت",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -5198,7 +5198,7 @@
     "ex" : "bourse",
     "name" : "صنایع پتروشیمی خلیج فارس",
     "shortname" : "فارس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5216,7 +5216,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م24بودجه96-990625",
     "shortname" : "اخزا624",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5234,7 +5234,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م4بودجه97-991022",
     "shortname" : "اخزا704",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5252,7 +5252,7 @@
     "ex" : "farabourse",
     "name" : "صنایع بهداشتی ساینا",
     "shortname" : "ساینا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5270,7 +5270,7 @@
     "ex" : "bourse",
     "name" : "فنرسازی‌خاور",
     "shortname" : "خفنر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5306,7 +5306,7 @@
     "ex" : "bourse",
     "name" : "پمپ‌ سازی‌ ایران‌",
     "shortname" : "تپمپی",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -5324,7 +5324,7 @@
     "ex" : "farabourse",
     "name" : "شرکت آهن و فولاد ارفع",
     "shortname" : "ارفع",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5342,7 +5342,7 @@
     "ex" : "bourse",
     "name" : "شکرشاهرود",
     "shortname" : "قشکر",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -5360,7 +5360,7 @@
     "ex" : "farabourse",
     "name" : "گروه  صنایع کاغذ پارس",
     "shortname" : "چکاپا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5378,7 +5378,7 @@
     "ex" : "farabourse",
     "name" : "داروسازی کاسپین تامین",
     "shortname" : "کاسپین",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5396,7 +5396,7 @@
     "ex" : "bourse",
     "name" : "ح .گروه دارویی سبحان",
     "shortname" : "دسبحاح",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -5414,7 +5414,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌ دورود",
     "shortname" : "سدور",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -5450,7 +5450,7 @@
     "ex" : "farabourse",
     "name" : "صنایع فولاد آلیاژی یزد",
     "shortname" : "فولای",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -5468,7 +5468,7 @@
     "ex" : "farabourse",
     "name" : "بیمه  دی",
     "shortname" : "ودی",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -5486,7 +5486,7 @@
     "ex" : "farabourse",
     "name" : "کشت و صنعت شهداب ناب خراسان",
     "shortname" : "غشهداب",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5522,7 +5522,7 @@
     "ex" : "farabourse",
     "name" : "بیمه نوین",
     "shortname" : "نوین",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5540,7 +5540,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌شاهرود",
     "shortname" : "سرود",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -5558,7 +5558,7 @@
     "ex" : "bourse",
     "name" : "توسعه معدنی و صنعتی صبانور",
     "shortname" : "کنور",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -5576,7 +5576,7 @@
     "ex" : "bourse",
     "name" : "ایران‌ تایر",
     "shortname" : "پتایر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5594,7 +5594,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌ فارابی‌",
     "shortname" : "دفارا",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -5612,7 +5612,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن خرداد97",
     "shortname" : "تسه9703",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5630,7 +5630,7 @@
     "ex" : "bourse",
     "name" : "عمران‌وتوسعه‌فارس‌",
     "shortname" : "ثفارس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5648,7 +5648,7 @@
     "ex" : "bourse",
     "name" : "صنایع‌ کاشی‌ و سرامیک‌ سینا",
     "shortname" : "کساوه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5666,7 +5666,7 @@
     "ex" : "bourse",
     "name" : "بانک‌ کارآفرین‌",
     "shortname" : "وکار",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -5702,7 +5702,7 @@
     "ex" : "farabourse",
     "name" : "ریل پردازسیر",
     "shortname" : "حریل",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5720,7 +5720,7 @@
     "ex" : "farabourse",
     "name" : "توکا رنگ فولاد سپاهان",
     "shortname" : "شتوکا",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -5738,7 +5738,7 @@
     "ex" : "bourse",
     "name" : "لبنیات‌کالبر",
     "shortname" : "غالبر",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -5756,7 +5756,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م9بودجه97-990513",
     "shortname" : "اخزا709",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -5774,7 +5774,7 @@
     "ex" : "bourse",
     "name" : "آلومینیوم‌ایران‌",
     "shortname" : "فایرا",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -5792,7 +5792,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه‌گذاری مسکن زاینده رود",
     "shortname" : "ثرود",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -5810,7 +5810,7 @@
     "ex" : "bourse",
     "name" : "توسعه‌شهری‌توس‌گستر",
     "shortname" : "وتوس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5828,7 +5828,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن فروردین97",
     "shortname" : "تسه9701",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5882,7 +5882,7 @@
     "ex" : "bourse",
     "name" : "شیشه‌ همدان‌",
     "shortname" : "کهمدا",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -5900,7 +5900,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م6بودجه96-980722",
     "shortname" : "اخزا606",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5918,7 +5918,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌ صوفیان‌",
     "shortname" : "سصوفی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5936,7 +5936,7 @@
     "ex" : "bourse",
     "name" : "سبحان دارو",
     "shortname" : "دسبحان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5954,7 +5954,7 @@
     "ex" : "farabourse",
     "name" : "قاسم ایران",
     "shortname" : "قاسم",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -5972,7 +5972,7 @@
     "ex" : "bourse",
     "name" : "ایران‌ارقام‌",
     "shortname" : "مرقام",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -5990,7 +5990,7 @@
     "ex" : "bourse",
     "name" : "فراورده‌ های‌ نسوزایران‌",
     "shortname" : "کفرا",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -6026,7 +6026,7 @@
     "ex" : "bourse",
     "name" : "تولیدی‌مهرام‌",
     "shortname" : "غمهرا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6062,7 +6062,7 @@
     "ex" : "bourse",
     "name" : "گروه‌ صنعتی‌ بارز",
     "shortname" : "پکرمان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6080,7 +6080,7 @@
     "ex" : "farabourse",
     "name" : "توکاریل",
     "shortname" : "توریل",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -6098,7 +6098,7 @@
     "ex" : "bourse",
     "name" : "پارس‌ دارو",
     "shortname" : "دپارس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6116,7 +6116,7 @@
     "ex" : "bourse",
     "name" : "بورس اوراق بهادار تهران",
     "shortname" : "بورس",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -6134,7 +6134,7 @@
     "ex" : "bourse",
     "name" : "پگاه‌آذربایجان‌غربی‌",
     "shortname" : "غشاذر",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -6152,7 +6152,7 @@
     "ex" : "bourse",
     "name" : "سرمایه گذاری خوارزمی",
     "shortname" : "وخارزم",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -6170,7 +6170,7 @@
     "ex" : "bourse",
     "name" : "نیرو محرکه‌",
     "shortname" : "خمحرکه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6188,7 +6188,7 @@
     "ex" : "bourse",
     "name" : "پارس‌ مینو",
     "shortname" : "غپینو",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -6224,7 +6224,7 @@
     "ex" : "farabourse",
     "name" : "صنعتی بهپاک",
     "shortname" : "بهپاک",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6260,7 +6260,7 @@
     "ex" : "bourse",
     "name" : "سرمایه گذاری اعتبار ایران",
     "shortname" : "واعتبار",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -6278,7 +6278,7 @@
     "ex" : "bourse",
     "name" : "صندوق س. با درآمد ثابت کمند",
     "shortname" : "کمند",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6296,7 +6296,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌ صنعت‌ نفت‌",
     "shortname" : "ونفت",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -6314,7 +6314,7 @@
     "ex" : "bourse",
     "name" : "کارت اعتباری ایران کیش",
     "shortname" : "رکیش",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6332,7 +6332,7 @@
     "ex" : "farabourse",
     "name" : "شرکت کی بی سی",
     "shortname" : "کی بی سی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6368,7 +6368,7 @@
     "ex" : "bourse",
     "name" : "موتورسازان‌تراکتورسازی‌ایران‌",
     "shortname" : "خموتور",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -6386,7 +6386,7 @@
     "ex" : "bourse",
     "name" : "پالایش نفت بندرعباس",
     "shortname" : "شبندر",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -6404,7 +6404,7 @@
     "ex" : "bourse",
     "name" : "حفاری شمال",
     "shortname" : "حفاری",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6422,7 +6422,7 @@
     "ex" : "bourse",
     "name" : "سرمایه گذاری گروه توسعه ملی",
     "shortname" : "وبانک",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -6440,7 +6440,7 @@
     "ex" : "bourse",
     "name" : "قطعات‌ اتومبیل‌ ایران‌",
     "shortname" : "ختوقا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6476,7 +6476,7 @@
     "ex" : "bourse",
     "name" : "کیمیدارو",
     "shortname" : "دکیمی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6512,7 +6512,7 @@
     "ex" : "farabourse",
     "name" : "پالایش نفت لاوان",
     "shortname" : "شاوان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6530,7 +6530,7 @@
     "ex" : "bourse",
     "name" : "فولاد کاوه جنوب کیش",
     "shortname" : "کاوه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6548,7 +6548,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری سبحان",
     "shortname" : "وسبحان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6566,7 +6566,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری توسعه گوهران امید",
     "shortname" : "گوهران",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6584,7 +6584,7 @@
     "ex" : "bourse",
     "name" : "مدیریت صنعت شوینده ت.ص.بهشهر",
     "shortname" : "شوینده",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6620,7 +6620,7 @@
     "ex" : "bourse",
     "name" : "ماشین‌سازی‌نیرومحرکه‌",
     "shortname" : "تمحرکه",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -6638,7 +6638,7 @@
     "ex" : "bourse",
     "name" : "کابل‌ البرز",
     "shortname" : "بالبر",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -6656,7 +6656,7 @@
     "ex" : "bourse",
     "name" : "لبنیات‌ پاک‌",
     "shortname" : "غپاک",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -6692,7 +6692,7 @@
     "ex" : "bourse",
     "name" : "بانک تجارت",
     "shortname" : "وتجارت",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -6710,7 +6710,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن تیر97",
     "shortname" : "تسه9704",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6728,7 +6728,7 @@
     "ex" : "farabourse",
     "name" : "مرابحه سلامت6واجدشرایط خاص1400",
     "shortname" : "سلامت6",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -6746,7 +6746,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن آبان97",
     "shortname" : "تسه9708",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6764,7 +6764,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن دی 97",
     "shortname" : "تسه9710",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -6782,7 +6782,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌ گذاری‌ صنعت‌ ومعدن‌",
     "shortname" : "وصنعت",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -6800,7 +6800,7 @@
     "ex" : "farabourse",
     "name" : "تولیدی و خدمات صنایع نسوز توکا",
     "shortname" : "کتوکا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6818,7 +6818,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌مازندران‌",
     "shortname" : "سمازن",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -6836,7 +6836,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن بهمن96",
     "shortname" : "تسه9611",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -6854,7 +6854,7 @@
     "ex" : "bourse",
     "name" : "ح . ذغال‌سنگ‌ نگین‌ ط‌بس‌",
     "shortname" : "کطبسح",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -6872,7 +6872,7 @@
     "ex" : "farabourse",
     "name" : "فرآوری زغال سنگ پروده طبس",
     "shortname" : "کپرور",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6908,7 +6908,7 @@
     "ex" : "bourse",
     "name" : "نوردوقطعات‌ فولادی‌",
     "shortname" : "فنورد",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6926,7 +6926,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌زهراوی‌",
     "shortname" : "دزهراوی",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6944,7 +6944,7 @@
     "ex" : "bourse",
     "name" : "تراکتورسازی‌ایران‌",
     "shortname" : "تایرا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6962,7 +6962,7 @@
     "ex" : "bourse",
     "name" : "صنایع‌ آذرآب‌",
     "shortname" : "فاذر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6980,7 +6980,7 @@
     "ex" : "bourse",
     "name" : "آتی ش خودرو و قطعات-1398/02/29",
     "shortname" : "جاتو802",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -6998,7 +6998,7 @@
     "ex" : "bourse",
     "name" : "گسترش نفت و گاز پارسیان",
     "shortname" : "پارسان",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -7034,7 +7034,7 @@
     "ex" : "farabourse",
     "name" : "سیمان لار سبزوار",
     "shortname" : "سبزوا",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -7052,7 +7052,7 @@
     "ex" : "farabourse",
     "name" : "گسترش سرمایه گذاری ایرانیان",
     "shortname" : "وگستر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7070,7 +7070,7 @@
     "ex" : "bourse",
     "name" : "مارگارین‌",
     "shortname" : "غمارگ",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7106,7 +7106,7 @@
     "ex" : "bourse",
     "name" : "لوله‌وماشین‌سازی‌ایران‌",
     "shortname" : "فلوله",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7124,7 +7124,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌ ابوریحان‌",
     "shortname" : "دابور",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7142,7 +7142,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌بوعلی‌",
     "shortname" : "وبوعلی",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -7160,7 +7160,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن اسفند96",
     "shortname" : "تسه9612",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7178,7 +7178,7 @@
     "ex" : "farabourse",
     "name" : "مواد اولیه دارویی البرز بالک",
     "shortname" : "دبالک",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7196,7 +7196,7 @@
     "ex" : "farabourse",
     "name" : "داروسازی تولید دارو",
     "shortname" : "دتولید",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -7214,7 +7214,7 @@
     "ex" : "bourse",
     "name" : "چرخشگر",
     "shortname" : "خچرخش",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -7232,7 +7232,7 @@
     "ex" : "bourse",
     "name" : "گروه‌ صنعتی‌ ملی‌ (هلدینگ‌",
     "shortname" : "وملی",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -7250,7 +7250,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن اردیبهشت97",
     "shortname" : "تسه9702",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7268,7 +7268,7 @@
     "ex" : "bourse",
     "name" : "تامین سرمایه امید",
     "shortname" : "امید",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7304,7 +7304,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن مرداد97",
     "shortname" : "تسه9705",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -7322,7 +7322,7 @@
     "ex" : "bourse",
     "name" : "فنرسازی‌زر",
     "shortname" : "خزر",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -7340,7 +7340,7 @@
     "ex" : "bourse",
     "name" : "ایرکا پارت صنعت",
     "shortname" : "خکار",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7358,7 +7358,7 @@
     "ex" : "farabourse",
     "name" : "شرکت بیمه اتکایی امین",
     "shortname" : "اتکام",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7376,7 +7376,7 @@
     "ex" : "bourse",
     "name" : "صندوق س. با درآمد ثابت کیان",
     "shortname" : "کیان2",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7394,7 +7394,7 @@
     "ex" : "farabourse",
     "name" : "مشارکت دولتی9-شرایط خاص990909",
     "shortname" : "اشاد9",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7430,7 +7430,7 @@
     "ex" : "farabourse",
     "name" : "صندوق س. آرمان آتی کوثر-د",
     "shortname" : "آکورد",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7448,7 +7448,7 @@
     "ex" : "bourse",
     "name" : "توسعه‌ صنایع‌ بهشهر(هلدینگ",
     "shortname" : "وبشهر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7484,7 +7484,7 @@
     "ex" : "farabourse",
     "name" : "مبین وان کیش",
     "shortname" : "اوان",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7502,7 +7502,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م6بودجه97-990423",
     "shortname" : "اخزا706",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7520,7 +7520,7 @@
     "ex" : "bourse",
     "name" : "قندهکمتان‌",
     "shortname" : "قهکمت",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7538,7 +7538,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری مسکن تهران",
     "shortname" : "ثتران",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -7556,7 +7556,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی فناوران",
     "shortname" : "شفن",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -7574,7 +7574,7 @@
     "ex" : "bourse",
     "name" : "آتی ش خودرو و قطعات-1398/06/27",
     "shortname" : "جاتو806",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7610,7 +7610,7 @@
     "ex" : "bourse",
     "name" : "بورس کالای ایران",
     "shortname" : "کالا",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -7628,7 +7628,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌ امین‌",
     "shortname" : "دامین",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -7646,7 +7646,7 @@
     "ex" : "bourse",
     "name" : "صنایع پتروشیمی کرمانشاه",
     "shortname" : "کرماشا",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -7682,7 +7682,7 @@
     "ex" : "bourse",
     "name" : "صنایع‌ لاستیکی‌  سهند",
     "shortname" : "پسهند",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -7718,7 +7718,7 @@
     "ex" : "bourse",
     "name" : "مشارکت شهرداری اصفهان،3ماهه21%",
     "shortname" : "مصفها712",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7736,7 +7736,7 @@
     "ex" : "bourse",
     "name" : "ح . پتروشیمی جم",
     "shortname" : "جمح",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -7790,7 +7790,7 @@
     "ex" : "farabourse",
     "name" : "اسناد خزانه اسلامی971228",
     "shortname" : "سخاب7",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7808,7 +7808,7 @@
     "ex" : "bourse",
     "name" : "سرمایه‌گذاری‌بهمن‌",
     "shortname" : "وبهمن",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7826,7 +7826,7 @@
     "ex" : "bourse",
     "name" : "گروه مدیریت سرمایه گذاری امید",
     "shortname" : "وامید",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7844,7 +7844,7 @@
     "ex" : "farabourse",
     "name" : "داروسازی سبحان انکولوژی",
     "shortname" : "دسانکو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7880,7 +7880,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م12بودجه96-981114",
     "shortname" : "اخزا612",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7898,7 +7898,7 @@
     "ex" : "farabourse",
     "name" : "شهر سازی و خانه سازی باغمیشه",
     "shortname" : "ثباغ",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7916,7 +7916,7 @@
     "ex" : "farabourse",
     "name" : "لیزینگ ایران و شرق",
     "shortname" : "ولشرق",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -7934,7 +7934,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن اسفندماه95",
     "shortname" : "تسه9512",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7952,7 +7952,7 @@
     "ex" : "bourse",
     "name" : "ملی کشت و صنعت و دامپروری پارس",
     "shortname" : "زپارس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -7970,7 +7970,7 @@
     "ex" : "bourse",
     "name" : "لابراتوارداروسازی‌  دکترعبیدی‌",
     "shortname" : "دعبید",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -8006,7 +8006,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌ اکسیر",
     "shortname" : "دلر",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -8024,7 +8024,7 @@
     "ex" : "bourse",
     "name" : "لامپ‌  پارس‌ شهاب‌",
     "shortname" : "بشهاب",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -8060,7 +8060,7 @@
     "ex" : "bourse",
     "name" : "پارس‌ الکتریک‌",
     "shortname" : "لپارس",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -8078,7 +8078,7 @@
     "ex" : "farabourse",
     "name" : "فرابورس ایران",
     "shortname" : "فرابورس",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -8114,7 +8114,7 @@
     "ex" : "bourse",
     "name" : "ملی‌ سرب‌وروی‌ ایران‌",
     "shortname" : "فسرب",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -8150,7 +8150,7 @@
     "ex" : "farabourse",
     "name" : "صنعتی و معدنی شمال شرق شاهرود",
     "shortname" : "کشرق",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -8204,7 +8204,7 @@
     "ex" : "farabourse",
     "name" : "شیر و گوشت زاگرس شهرکرد",
     "shortname" : "زشگزا",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -8240,7 +8240,7 @@
     "ex" : "bourse",
     "name" : "آبسال‌",
     "shortname" : "لابسا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8258,7 +8258,7 @@
     "ex" : "bourse",
     "name" : "نفت‌ پارس‌",
     "shortname" : "شنفت",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -8276,7 +8276,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م9بودجه96-980411",
     "shortname" : "اخزا609",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8294,7 +8294,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌ سینا",
     "shortname" : "دسینا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8312,7 +8312,7 @@
     "ex" : "bourse",
     "name" : "توسعه‌ معادن‌ روی‌ ایران‌",
     "shortname" : "کروی",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -8330,7 +8330,7 @@
     "ex" : "bourse",
     "name" : "صکوک اجاره رایتل  ماهانه 21 %",
     "shortname" : "صایتل902",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8348,7 +8348,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م15بودجه96-980820",
     "shortname" : "اخزا615",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8366,7 +8366,7 @@
     "ex" : "farabourse",
     "name" : "مشارکت دولتی6-شرایط خاص981201",
     "shortname" : "اشاد62",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8384,7 +8384,7 @@
     "ex" : "bourse",
     "name" : "گروه‌صنایع‌بهشهرایران‌",
     "shortname" : "وصنا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8402,7 +8402,7 @@
     "ex" : "farabourse",
     "name" : "سرمایه گذاری مسکن پردیس",
     "shortname" : "ثپردیس",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -8420,7 +8420,7 @@
     "ex" : "bourse",
     "name" : "کشت‌ و صنعت‌ چین‌ چین",
     "shortname" : "غچین",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -8438,7 +8438,7 @@
     "ex" : "bourse",
     "name" : "البرزدارو",
     "shortname" : "دالبر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8456,7 +8456,7 @@
     "ex" : "bourse",
     "name" : "کنترل‌خوردگی‌تکین‌کو",
     "shortname" : "رتکو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8474,7 +8474,7 @@
     "ex" : "farabourse",
     "name" : "نفت پاسارگاد",
     "shortname" : "شپاس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8492,7 +8492,7 @@
     "ex" : "bourse",
     "name" : "مشارکت ملی نفت ایران3ماهه 21%",
     "shortname" : "مپارس712",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8510,7 +8510,7 @@
     "ex" : "farabourse",
     "name" : "بهمن  دیزل",
     "shortname" : "خدیزل",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8528,7 +8528,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م8بودجه96-980411",
     "shortname" : "اخزا608",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8546,7 +8546,7 @@
     "ex" : "farabourse",
     "name" : "دامداری تلیسه نمونه",
     "shortname" : "تلیسه",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8582,7 +8582,7 @@
     "ex" : "farabourse",
     "name" : "ریل سیر کوثر",
     "shortname" : "حسیر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8600,7 +8600,7 @@
     "ex" : "bourse",
     "name" : "ح.سرمایه گذاری نورکوثرایرانیان",
     "shortname" : "وسکابح",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8618,7 +8618,7 @@
     "ex" : "farabourse",
     "name" : "اوراق اجاره شرکت مخابرات ایران",
     "shortname" : "صخابر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8636,7 +8636,7 @@
     "ex" : "bourse",
     "name" : "فرآورده‌های‌ نسوز پارس‌",
     "shortname" : "کفپارس",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -8654,7 +8654,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م14بودجه96-981016",
     "shortname" : "اخزا614",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8672,7 +8672,7 @@
     "ex" : "farabourse",
     "name" : "نفت ایرانول",
     "shortname" : "شرانل",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8690,7 +8690,7 @@
     "ex" : "bourse",
     "name" : "توریستی ورفاهی آبادگران ایران",
     "shortname" : "ثاباد",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8708,7 +8708,7 @@
     "ex" : "farabourse",
     "name" : "اجاره رایتل2- سه ماهه 22 درصد",
     "shortname" : "صایتل2",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8726,7 +8726,7 @@
     "ex" : "bourse",
     "name" : "موتوژن‌",
     "shortname" : "بموتو",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -8744,7 +8744,7 @@
     "ex" : "farabourse",
     "name" : "شیر پاستوریزه پگاه گلپایگان",
     "shortname" : "غگلپا",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -8780,7 +8780,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی پردیس",
     "shortname" : "شپدیس",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8798,7 +8798,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م13بودجه97-000518",
     "shortname" : "اخزا713",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8816,7 +8816,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن آبان96",
     "shortname" : "تسه9608",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8834,7 +8834,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م8بودجه97-980723",
     "shortname" : "اخزا708",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8852,7 +8852,7 @@
     "ex" : "farabourse",
     "name" : "صندوق اندیشه ورزان صباتامین -د",
     "shortname" : "اوصتا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8870,7 +8870,7 @@
     "ex" : "bourse",
     "name" : "سرما آفرین‌",
     "shortname" : "لسرما",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8888,7 +8888,7 @@
     "ex" : "bourse",
     "name" : "تایدواترخاورمیانه",
     "shortname" : "حتاید",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8906,7 +8906,7 @@
     "ex" : "bourse",
     "name" : "لامیران‌",
     "shortname" : "فلامی",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -8924,7 +8924,7 @@
     "ex" : "bourse",
     "name" : "رادیاتور ایران‌",
     "shortname" : "ختور",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8942,7 +8942,7 @@
     "ex" : "bourse",
     "name" : "کارخانجات تولیدی شهید قندی",
     "shortname" : "بکام",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8960,7 +8960,7 @@
     "ex" : "farabourse",
     "name" : "اجاره تامین اجتماعی-سپهر991226",
     "shortname" : "شستا9922",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -8996,7 +8996,7 @@
     "ex" : "bourse",
     "name" : "تکنوتار",
     "shortname" : "تکنو",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -9014,7 +9014,7 @@
     "ex" : "bourse",
     "name" : "گروه‌صنعتی‌سپاهان‌",
     "shortname" : "فسپا",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -9050,7 +9050,7 @@
     "ex" : "bourse",
     "name" : "شیشه‌ و گاز",
     "shortname" : "کگاز",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9068,7 +9068,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م12بودجه97-980530",
     "shortname" : "اخزا712",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9086,7 +9086,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن خرداد 96",
     "shortname" : "تسه9603",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -9104,7 +9104,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن فروردین96",
     "shortname" : "تسه9601",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -9122,7 +9122,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن دی96",
     "shortname" : "تسه9610",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9140,7 +9140,7 @@
     "ex" : "bourse",
     "name" : "داروپخش‌ (هلدینگ‌",
     "shortname" : "وپخش",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -9158,7 +9158,7 @@
     "ex" : "bourse",
     "name" : "فولاد  خوزستان",
     "shortname" : "فخوز2",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9176,7 +9176,7 @@
     "ex" : "farabourse",
     "name" : "شرکت بهمن لیزینگ",
     "shortname" : "ولبهمن",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9194,7 +9194,7 @@
     "ex" : "bourse",
     "name" : "ص اجاره گل گهر 411- 3 ماهه 17%",
     "shortname" : "صگل411",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9212,7 +9212,7 @@
     "ex" : "bourse",
     "name" : "سیمان فارس نو",
     "shortname" : "سفانو",
-    "color" : undefined
+    "color" : "#ff3366"
 },
 {
     "instrument" : {
@@ -9230,7 +9230,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌ سفید نی‌ریز",
     "shortname" : "سنیر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9248,7 +9248,7 @@
     "ex" : "bourse",
     "name" : "گروه دارویی سبحان",
     "shortname" : "دسبحا",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9266,7 +9266,7 @@
     "ex" : "bourse",
     "name" : "پارس‌ سرام‌",
     "shortname" : "کسرام",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -9284,7 +9284,7 @@
     "ex" : "bourse",
     "name" : "خدمات‌انفورماتیک‌",
     "shortname" : "رانفور",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9302,7 +9302,7 @@
     "ex" : "farabourse",
     "name" : "بیمه پاسارگاد",
     "shortname" : "بپاس",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -9320,7 +9320,7 @@
     "ex" : "farabourse",
     "name" : "تولید برق عسلویه  مپنا",
     "shortname" : "بمپنا",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -9338,7 +9338,7 @@
     "ex" : "bourse",
     "name" : "بهنوش‌ ایران‌",
     "shortname" : "غبهنوش",
-    "color" : "#777"
+    "color" : "#518651"
 },
 {
     "instrument" : {
@@ -9356,7 +9356,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م4بودجه96-980820",
     "shortname" : "اخزا604",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9392,7 +9392,7 @@
     "ex" : "bourse",
     "name" : "پتروشیمی مبین",
     "shortname" : "مبین2",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9410,7 +9410,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌فارس‌",
     "shortname" : "سفار",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9428,7 +9428,7 @@
     "ex" : "bourse",
     "name" : "خوراک‌  دام‌ پارس‌",
     "shortname" : "غدام",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9446,7 +9446,7 @@
     "ex" : "bourse",
     "name" : "مشارکت ملی نفت ایران3ماهه 21%",
     "shortname" : "مغرب9712",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9464,7 +9464,7 @@
     "ex" : "farabourse",
     "name" : "پخش البرز",
     "shortname" : "پخش",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9482,7 +9482,7 @@
     "ex" : "bourse",
     "name" : "معدنی و صنعتی گل گهر",
     "shortname" : "کگل2",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9500,7 +9500,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م14بودجه97-980722",
     "shortname" : "اخزا714",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9518,7 +9518,7 @@
     "ex" : "bourse",
     "name" : "صنایع‌ریخته‌گری‌ایران‌",
     "shortname" : "خریخت",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9536,7 +9536,7 @@
     "ex" : "bourse",
     "name" : "تولیدی‌ کاشی‌ تکسرام‌",
     "shortname" : "کترام",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -9554,7 +9554,7 @@
     "ex" : "bourse",
     "name" : "حمل و نقل پتروشیمی( سهامی عام",
     "shortname" : "حپترو",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -9572,7 +9572,7 @@
     "ex" : "farabourse",
     "name" : "س. تدبیرگران فارس وخوزستان",
     "shortname" : "سدبیر",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -9608,7 +9608,7 @@
     "ex" : "bourse",
     "name" : "پالایش نفت اصفهان",
     "shortname" : "شپنا2",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9626,7 +9626,7 @@
     "ex" : "farabourse",
     "name" : "امتیاز تسهیلات مسکن تیر96",
     "shortname" : "تسه9604",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9644,7 +9644,7 @@
     "ex" : "bourse",
     "name" : "قند مرودشت‌",
     "shortname" : "قمرو",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -9662,7 +9662,7 @@
     "ex" : "bourse",
     "name" : "به پرداخت ملت",
     "shortname" : "پرداخت",
-    "color" : "#555"
+    "color" : "#7ec17e"
 },
 {
     "instrument" : {
@@ -9698,7 +9698,7 @@
     "ex" : "farabourse",
     "name" : "اجاره دولت-واجدشرایط خاص991224",
     "shortname" : "اجاد422",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9716,7 +9716,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌ قائن‌",
     "shortname" : "سقاین",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -9734,7 +9734,7 @@
     "ex" : "farabourse",
     "name" : "مرابحه دولتی تعاون-لوتوس991118",
     "shortname" : "سلامت4",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9770,7 +9770,7 @@
     "ex" : "farabourse",
     "name" : "صندوق س. آرمان آتی کوثر-د",
     "shortname" : "آکورد2",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9788,7 +9788,7 @@
     "ex" : "bourse",
     "name" : "صنعتی‌ آما",
     "shortname" : "فاما",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9806,7 +9806,7 @@
     "ex" : "bourse",
     "name" : "سیمان‌ کرمان‌",
     "shortname" : "سکرما",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9824,7 +9824,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م7بودجه97-980627",
     "shortname" : "اخزا707",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9842,7 +9842,7 @@
     "ex" : "bourse",
     "name" : "داروسازی‌ جابرابن‌حیان‌",
     "shortname" : "دجابر",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9860,7 +9860,7 @@
     "ex" : "farabourse",
     "name" : "مشارکت دولتی7-شرایط خاص981227",
     "shortname" : "اشاد7",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9878,7 +9878,7 @@
     "ex" : "bourse",
     "name" : "سیمان آرتا اردبیل",
     "shortname" : "ساربیل",
-    "color" : "#999"
+    "color" : "#ed7171"
 },
 {
     "instrument" : {
@@ -9914,7 +9914,7 @@
     "ex" : "bourse",
     "name" : "سرمایه گذاری دارویی تامین",
     "shortname" : "تیپیکو",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9932,7 +9932,7 @@
     "ex" : "bourse",
     "name" : "حمل و نقل بین المللی خلیج فارس",
     "shortname" : "حفارس",
-    "color" : "#111"
+    "color" : "#215e2c"
 },
 {
     "instrument" : {
@@ -9950,7 +9950,7 @@
     "ex" : "bourse",
     "name" : "دارویی‌ رازک‌",
     "shortname" : "درازک",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9968,7 +9968,7 @@
     "ex" : "farabourse",
     "name" : "اسنادخزانه-م10بودجه96-980911",
     "shortname" : "اخزا610",
-    "color" : "#666"
+    "color" : "#c84040"
 },
 {
     "instrument" : {
@@ -9986,6 +9986,6 @@
     "ex" : "farabourse",
     "name" : "اجاره ریلی البرزنیرو14020514",
     "shortname" : "البرز02",
-    "color" : "#666"
+    "color" : "#c84040"
 }
 ]
