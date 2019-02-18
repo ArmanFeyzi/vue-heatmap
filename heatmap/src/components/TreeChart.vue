@@ -38,29 +38,29 @@ export default {
 
     let level1 = chart.seriesTemplates.create("0");
     let level1_column = level1.columns.template;
-    level1_column.column.cornerRadius(10, 10, 10, 10);
+    // level1_column.column.cornerRadius(10, 10, 10, 10);
     level1_column.fillOpacity = 0.8;
-    level1_column.stroke = am4core.color("#373737");
-    level1_column.strokeWidth = 5;
+    level1_column.stroke = am4core.color("#888");
+    level1_column.strokeWidth = 2;
     level1_column.strokeOpacity = 1;
     let level1_bullet = level1.bullets.push(new am4charts.LabelBullet());
     level1_bullet.locationY = 1;
     level1_bullet.locationX = 0.5;
     level1_bullet.label.text = "{name}";
-    level1_bullet.label.fill = am4core.color("#373737");
+    level1_bullet.label.fill = am4core.color("#eee");
     
     let level2 = chart.seriesTemplates.create("1");
     let level2_column = level2.columns.template;
-    level2_column.column.cornerRadius(10, 10, 10, 10);
+    // level2_column.column.cornerRadius(10, 10, 10, 10);
     level2_column.fillOpacity = 0.8;
-    level2_column.stroke = am4core.color("#373737");
-    level2_column.strokeWidth = 5;
+    level2_column.stroke = am4core.color("#555");
+    level2_column.strokeWidth = 2;
     level2_column.strokeOpacity = 1;
     let level2_bullet = level2.bullets.push(new am4charts.LabelBullet());
     level2_bullet.locationY = 0.5;
     level2_bullet.locationX = 0.5;
     level2_bullet.label.text = "{name}";
-    level2_bullet.label.fill = am4core.color("#373737");
+    level2_bullet.label.fill = am4core.color("#eee");
 
     chart.data = data;
 
