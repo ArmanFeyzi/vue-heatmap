@@ -1,0 +1,23 @@
+db.company.find({
+  "value": {$gt:0}
+}, {
+  open_price: 1,
+  close_price: 1,
+  value: 1,
+  volume: 1,
+  "instrument.name": 1,
+  "instrument.short_name": 1,
+  "instrument.exchange.id": 1,
+  _id: 0
+}).map(function (u) {
+  color = ["#111", "#222", "#333", "#555", "#666", "#777", "#999", "aaa", "ccc", "#eee"];
+  ex = ["TSE","bourse","farabourse","tehran","london","tala"];
+  u["percent"] = parseFloat((parseInt(u.open_price) / parseInt(u.close_price) - 1) * 100);
+  c_index = parseInt(u.percent) + 4;
+  ex_id = parseInt(u["instrument"]["exchange"]["id"]);
+  u["ex"] = ex[ex_id];
+  u["name"] = u["instrument"]["name"];
+  u["shortname"] = u["instrument"]["short_name"];
+  u["color"] = color[c_index];
+  return u;
+});

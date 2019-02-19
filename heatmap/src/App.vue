@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h2>برای تست فونت اینجا نوشتم.</h2>
     <router-view/>
   </div>
 </template>
@@ -10,8 +11,11 @@ export default {
 }
 </script>
 
-<style>
+<style >
+@import "./assets/style/style.scss";
+
 body{
-  background: #2e2d30;
+  font-family: 'Vazir';
+  background: #373737;
 }
 </style>
