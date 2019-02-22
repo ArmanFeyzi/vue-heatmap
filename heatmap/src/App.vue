@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h2>برای تست فونت اینجا نوشتم.</h2>
     <router-view/>
   </div>
 </template>
@@ -12,10 +11,14 @@ export default {
 </script>
 
 <style >
-@import "./assets/style/style.scss";
 
-body{
-  font-family: 'Vazir';
-  background: #373737;
+/* @import url("https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v19.1.0/dist/font-face.css"); */
+@import url("https://cdn.rawgit.com/rastikerdar/vazir-code-font/v1.1.1/dist/font-face.css");
+
+body {
+  background: #272727;
+  overflow: hidden;
+  font-family: 'Vazir Code', 'Vazir Code Hack', monospaced !important;
 }
+
 </style>

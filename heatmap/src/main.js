@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+// import * from 'vazir-font'
+
+// import 'vazir-font/dist/Farsi-Digits'
 
 Vue.config.productionTip = false
 
