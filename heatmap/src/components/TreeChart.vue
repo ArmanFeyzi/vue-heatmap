@@ -53,22 +53,28 @@ export default {
     chart.dataFields.children = "children";
     chart.dataFields.color = "cc";
 
-    chart.navigationBar = new am4charts.NavigationBar();
-    chart.homeText = "TOP";
+    // chart.navigationBar = new am4charts.NavigationBar();
+    // chart.homeText = "TOP";
 
-    chart.chartContainer.wheelable = true;
-    chart.zoomable = true;
+    // chart.zoomAxes = 20000;
+    // chart.zoomable = true;
+    // chart.maxZoomFactor = 100;
+    // chart.layoutAlgorithm = chart.binaryTree;
+
+    // chart.chartContainer.wheelable = true;
 
     // LEVEL 1
     let level1 = chart.seriesTemplates.create("0");
     let level1_column = level1.columns.template;
-    level1_column.stroke = am4core.color("#222");
+    level1_column.stroke = am4core.color("red");
+
     level1_column.fillOpacity = 1;
     level1_column.strokeWidth = 15;
     level1_column.strokeOpacity = 1;
     level1_column.strokeWidth = 22;
     level1_column.margin = 3;
     level1_column.padding = 3;
+
     let level1_bullet = level1.bullets.push(new am4charts.LabelBullet());
     level1_bullet.locationY = 0.5;
     level1_bullet.locationX = 0.5;
@@ -82,7 +88,7 @@ export default {
     let level2 = chart.seriesTemplates.create("1");
     let level2_column = level2.columns.template;
     level2_column.stroke = am4core.color("#fff");
-    level2_column.fillOpacity = 1;
+    level2_column.fillOpacity = 0.71;
     level2_column.strokeWidth = 1;
     let level2_bullet = level2.bullets.push(new am4charts.LabelBullet());
     level2_bullet.locationY = 0.5;
@@ -93,6 +99,12 @@ export default {
     // level2_bullet.fontSize = "1pc";
     // level2_bullet.fontFamily = "Vazir Code";
     level2_bullet.label.fill = am4core.color("#fff");
+
+    // level1_column.zoomable = true;
+    // level2_column.zoomable = true;
+    
+    // level1_column.minZoomCount = 20000;
+    // level2_column.minZoomCount = 20000;
 
     chart.data = data;
 
