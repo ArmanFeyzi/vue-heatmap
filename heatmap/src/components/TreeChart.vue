@@ -9,7 +9,7 @@ import am4themes_animated from "@amcharts/amcharts4/themes/animated";
 
 import * as ch_data from './l2_e2.json'
 
-am4core.useTheme(am4themes_animated);
+// am4core.useTheme(am4themes_animated);
 
 export default {
   name: "TreeChart",
@@ -51,10 +51,14 @@ export default {
     chart.dataFields.children = "children";
     chart.dataFields.color = "cc";
 
+    // only one level visible initially
+    chart.maxLevels = 1;
+    chart.zoomable = true;
+
     chart.navigationBar = new am4charts.NavigationBar();
     chart.homeText = "خانه";
     chart.zoomable = true;
-    chart.maxZoomFactor = 0;
+    // chart.maxZoomFactor = 0;
     chart.layoutAlgorithm = chart.binaryTree;
     chart.chartContainer.wheelable = true;
 
