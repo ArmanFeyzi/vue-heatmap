@@ -52,29 +52,30 @@ export default {
     chart.dataFields.color = "cc";
 
     // only one level visible initially
-    chart.maxLevels = 1;
+    chart.maxLevels = 2;
     chart.zoomable = true;
+    chart.wheelable = true;
 
     chart.navigationBar = new am4charts.NavigationBar();
     chart.homeText = "خانه";
-    chart.zoomable = true;
     // chart.maxZoomFactor = 0;
     // chart.layoutAlgorithm = chart.binaryTree;
     chart.chartContainer.wheelable = true;
 
     // LEVEL 1
     let level1 = chart.seriesTemplates.create("0");
-    level1.strokeWidth = 11;
+    level1.strokeWidth = 10;
 
     level1.columns.stroke = am4core.color("red");
-    level1.columns.fillOpacity = 1;
+    level1.columns.fillOpacity = 0.61;
     level1.columns.fill = "#88ff22";
-    level1.columns.strokeOpacity = 1;
+    level1.columns.strokeOpacity = 0.61;
+    level1.columns.template.fillOpacity = 0.51;
 
     let level1_bullet = level1.bullets.push(new am4charts.LabelBullet());
-    level1_bullet.locationY = 1;
+    level1_bullet.locationY = 0.5;
     level1_bullet.locationX = 0.5;
-    level1_bullet.label.text = "[bold font-size:3pc;]{name}";
+    level1_bullet.label.text = "[bold font-size:5pc;]{name}";
     level1_bullet.label.fill = am4core.color("#f09");
     
     // LEVEL 2
@@ -85,13 +86,17 @@ export default {
                                   قیمت سهم: [bold]{value}[/]\n
                                   حجم سهام معامله شده : [bold]{volume}[/]\n
                                   درصد: [bold]{percent}[/]`;
+    level2.columns.template.
+    // level2.columns.template.titleElement = "{shortname}";
+    // level2.columns.text = `[bold font-size: 1.4pc; #fff]{shortname}[/]\n
+    //                             [font-size: 1pc]% {percent.formatNumber('##.00')}[/]`;
     
-    let level2_bullet = level2.bullets.push(new am4charts.LabelBullet());
-    level2_bullet.locationY = 0.5;
-    level2_bullet.locationX = 0.5;
-    level2_bullet.label.text = `[bold font-size: 1.4pc; #fff]{shortname}[/]\n
-                                [font-size: 1pc]% {percent.formatNumber('##.00')}[/]`;
-    level2_bullet.label.fill = am4core.color("#fff");
+    // let level2_bullet = level2.bullets.push(new am4charts.LabelBullet());
+    // level2_bullet.locationY = 0.5;
+    // level2_bullet.locationX = 0.5;
+    // // level2_bullet.label.text = `[bold font-size: 1.4pc; #fff]{shortname}[/]\n
+    // //                             [font-size: 1pc]% {percent.formatNumber('##.00')}[/]`;
+    // level2_bullet.label.fill = am4core.color("#fff");
     
     chart.data = data;
 
