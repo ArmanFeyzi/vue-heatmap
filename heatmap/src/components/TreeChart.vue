@@ -9,7 +9,7 @@ import am4themes_animated from "@amcharts/amcharts4/themes/animated";
 
 import * as ch_data from './l2_e2.json'
 
-// am4core.useTheme(am4themes_animated);
+am4core.useTheme(am4themes_animated);
 
 export default {
   name: "TreeChart",
@@ -42,7 +42,7 @@ export default {
     chart.margin(0,0,0,0);
 
     chart.fontFamily = 'Vazir Code';
-    chart.numberFormatter.numberFormat = "##.##";
+    // chart.numberFormatter.numberFormat = "#.";
 
     let data = groubedByExchange;
 
@@ -59,7 +59,7 @@ export default {
     chart.homeText = "خانه";
     chart.zoomable = true;
     // chart.maxZoomFactor = 0;
-    chart.layoutAlgorithm = chart.binaryTree;
+    // chart.layoutAlgorithm = chart.binaryTree;
     chart.chartContainer.wheelable = true;
 
     // LEVEL 1
@@ -89,7 +89,8 @@ export default {
     let level2_bullet = level2.bullets.push(new am4charts.LabelBullet());
     level2_bullet.locationY = 0.5;
     level2_bullet.locationX = 0.5;
-    level2_bullet.label.text = "[bold font-size: 1.4pc; #fff]{shortname}[/]\n[font-size: 0.9pc]% {percent.formatNumber(##.##)}[/]";
+    level2_bullet.label.text = `[bold font-size: 1.4pc; #fff]{shortname}[/]\n
+                                [font-size: 1pc]% {percent.formatNumber('##.00')}[/]`;
     level2_bullet.label.fill = am4core.color("#fff");
     
     chart.data = data;
