@@ -33,7 +33,7 @@ export default {
       if(item.value > 10000000000){
         // console.log(parseInt(item["percent"]));
         item["cc"] = color[parseInt(item["percent"])+5];
-        item["cp"] = parseInt(item.value / 800000000);
+        item["cp"] = parseInt(item.value / 700000000);
         NEW_DATA.push(item)
       }
     });
