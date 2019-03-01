@@ -33,6 +33,7 @@ export default {
       if(item.value > 10000000000){
         // console.log(parseInt(item["percent"]));
         item["cc"] = color[parseInt(item["percent"])+5];
+        item["cp"] = parseInt(item.value / 800000000);
         NEW_DATA.push(item)
       }
     });
@@ -47,6 +48,8 @@ export default {
     // chart.numberFormatter.numberFormat = "#.";
 
     let data = groubedByExchange;
+
+    // console.log(data)
 
     chart.dataFields.value = "value";
     chart.dataFields.name = "name";
@@ -87,12 +90,18 @@ export default {
     level2.columns.stroke = am4core.color("#fff");
 
     let level2_bullet = level2.bullets.push(new am4charts.LabelBullet());
-    level2_bullet.label.text = `[bold font-size: 1.4pc; #fff]{shortname}[/]\n
-                                [font-size: 1pc]% {percent.formatNumber('##.00')}[/]`;
-    level2_bullet.tooltipText = `[bold]{name}[/]\n
-                                  قیمت سهم: [bold]{value}[/]\n
-                                  حجم سهام معامله شده : [bold]{volume}[/]\n
-                                  درصد: [bold]{percent}[/]`;
+    // level2_bullet.label.text = `[bold font-size: {value}; #fff]{shortname}[/]\n
+    //                             [font-size: 1pc]% {percent.formatNumber('##.00')}[/]`;
+
+
+    level2_bullet.label.text = `[bold font-size:{cp.formatNumber([#fff]#)}%] 
+                                {cp.formatNumber([#fff]#)}`;
+
+
+    // level2_bullet.tooltipText = `[bold]{name}[/]\n
+    //                               قیمت سهم: [bold]{value}[/]\n
+    //                               حجم سهام معامله شده : [bold]{volume}[/]\n
+    //                               درصد: [bold]{percent}[/]`;
     level2_bullet.locationY = 0.5;
     level2_bullet.locationX = 0.5;
     level2_bullet.interactionsEnabled = false;
