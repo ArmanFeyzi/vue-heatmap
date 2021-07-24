@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vazir-font": "^19.1.0",
+    "vazir-font": "^19.2.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
